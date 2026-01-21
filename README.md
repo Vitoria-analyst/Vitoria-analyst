@@ -20,7 +20,7 @@ Com base nos meus projetos recentes, estas são as tecnologias que utilizo:
 
 ### 🔭 Projetos em Destaque
 
-#### 1. 🔬 [Observatório da Comunidade Científica](LINK_DO_REPO_AQUI)
+#### 1. 🔬 [Observatório da Comunidade Científica](https://github.com/Vitoria-analyst/Observatorio-da-Comunidade-Cientifica)
 Um dashboard de inteligência bibliométrica que monitoriza a produção científica da UA.
 * **Tech:** NLP, Topic Modeling (NMF), Llama 3, Streamlit.
 * **Destaque:** Rotulagem automática de tópicos complexos usando LLMs.
