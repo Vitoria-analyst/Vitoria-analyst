@@ -30,7 +30,7 @@ Análise espacial comparativa sobre mobilidade urbana e acesso no Brasil.
 * **Tech:** PostGIS, SQL, QGIS, Mapbox.
 * **Destaque:** Comparação de isócronas (carro vs. transporte público) para identificar exclusão social.
 
-#### 3. 🌡️ [Climate & Health Tracker](LINK_DO_REPO_AQUI)
+#### 3. 🌡️ [Climate & Health Tracker](https://github.com/Vitoria-analyst/Analise-Mudancas-Climaticashttps://github.com/Vitoria-analyst/Analise-Mudancas-Climaticas)
 Ferramenta CLI (Command Line Interface) para monitoramento global de impacto climático.
 * **Tech:** Python, Pandas, Matplotlib.
 * **Destaque:** Sistema robusto com persistência de dados e geração automática de relatórios.
