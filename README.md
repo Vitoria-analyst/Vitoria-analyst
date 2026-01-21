@@ -25,7 +25,7 @@ Um dashboard de inteligência bibliométrica que monitoriza a produção cientí
 * **Tech:** NLP, Topic Modeling (NMF), Llama 3, Streamlit.
 * **Destaque:** Rotulagem automática de tópicos complexos usando LLMs.
 
-#### 2. 🌍 [Geometrias da Desigualdade](LINK_DO_REPO_AQUI)
+#### 2. 🌍 [Geometrias da Desigualdade](https://github.com/Vitoria-analyst/Geometrias-da-Desigualdade)
 Análise espacial comparativa sobre mobilidade urbana e acesso no Brasil.
 * **Tech:** PostGIS, SQL, QGIS, Mapbox.
 * **Destaque:** Comparação de isócronas (carro vs. transporte público) para identificar exclusão social.
